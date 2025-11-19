@@ -1,6 +1,5 @@
-# Synapse Scholar (AI Agent)
+# Synapse Scholar (AI Agent) *AI-Powered Help for Curious Minds*
 *This is my submission for the kaggle capstone project*
-
 
 ### 1) Project Overview
 
