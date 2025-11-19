@@ -2,7 +2,7 @@
 *This is my submission for the kaggle capstone project*
 
 
-!(synapse_flowchart.png)
+!(https://github.com/TejasKathuria/Synapse-Scholar-AI_Agent/blob/main/synapse_flowchart.png)
 ### 1) Project Overview
 
 The Synapse Scholar system is an interactive, multi-agent learning assistant built entirely using the Google AI Agent SDK (ADK).
