@@ -156,4 +156,6 @@ The modular architecture ensures:
 •	Context-aware memory
 
 Here's a video to it:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oTf2-diYQkE?si=aa3WbmUqFmtCw03w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/oTf2-diYQkE/maxresdefault.jpg)](https://youtu.be/oTf2-diYQkE)
+
+### [Watch this video on YouTube](https://youtu.be/oTf2-diYQkE)
