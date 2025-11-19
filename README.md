@@ -155,7 +155,6 @@ The modular architecture ensures:
 •	Transparent logging
 •	Context-aware memory
 
-Here's a video to it:
-[![Watch the video](https://img.youtube.com/vi/oTf2-diYQkE/maxresdefault.jpg)](https://youtu.be/oTf2-diYQkE)
 
-### [Watch this video on YouTube](https://youtu.be/oTf2-diYQkE)
+
+### [Have a look at it's working on YouTube](https://youtu.be/oTf2-diYQkE)
